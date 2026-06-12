@@ -9,7 +9,7 @@ o sistema permite importar contatos via bloco de notas, persolizar mensagens com
 - Envio de mensagens em massa pelo WhastApp Web
 - Personalizações de mensagens
 - Suporte a anexo de imagem
-- Interface desktop intuitiva
+- Controle de envios por quantidade e tempo
 
 ## Tecnologias
 - Python 3.13.14

@@ -1,7 +1,7 @@
 # Automatizador de Mensagens Para WhatsApp Web
 
 ## Sobre
-Aplicação desktop desenvolvida sob demanda um cliente que precisava automatizar o envio de mensagens personalizadas para sua base de clientes via WhatsApp Web.
+Aplicação desktop desenvolvida sob demanda de um cliente que precisava automatizar o envio de mensagens personalizadas para sua base de clientes via WhatsApp Web.
 
 o sistema permite importar contatos via bloco de notas, persolizar mensagens com o nome de cada cliente, envio de imagens junto a mensagem e disparar envios em massa de forma simples.
 

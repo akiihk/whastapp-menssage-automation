@@ -10,6 +10,7 @@ o sistema permite importar contatos via bloco de notas, persolizar mensagens com
 - Personalizações de mensagens
 - Suporte a anexo de imagem
 - Controle de envios por quantidade e tempo
+- Salvamento de mensagens
 
 ## Tecnologias
 - Python 3.13.14
